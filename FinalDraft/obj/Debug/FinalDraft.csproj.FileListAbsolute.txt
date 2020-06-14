@@ -1,0 +1,39 @@
+D:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\bin\Debug\FinalDraft.exe.config
+C:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\bin\Debug\FinalDraft.exe.config
+D:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.Form1.resources
+D:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.Properties.Resources.resources
+D:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.csproj.GenerateResource.Cache
+D:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\bin\Debug\FinalDraft.exe
+D:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\bin\Debug\FinalDraft.pdb
+D:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.exe
+D:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.pdb
+C:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.exe
+C:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.pdb
+C:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\bin\Debug\FinalDraft.exe
+C:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\bin\Debug\FinalDraft.pdb
+C:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.csprojResolveAssemblyReference.cache
+C:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.Form1.resources
+C:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.Properties.Resources.resources
+C:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.csproj.GenerateResource.Cache
+C:\YandexDisk\Курс 3\5 семестр\ЧМ в ЗМ\19 Января\FinalDraft\FinalDraft\obj\Debug\FinalDraft.Form2.resources
+C:\Users\Духовников\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\bin\Debug\FinalDraft.exe.config
+C:\Users\Духовников\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.exe
+C:\Users\Духовников\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.pdb
+C:\Users\Данил\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\bin\Debug\FinalDraft.exe.config
+C:\Users\Данил\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.exe
+C:\Users\Данил\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.pdb
+C:\Users\Данил\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\bin\Debug\FinalDraft.exe
+C:\Users\Данил\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\bin\Debug\FinalDraft.pdb
+C:\Users\Данил\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.csprojResolveAssemblyReference.cache
+C:\Users\Данил\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.Form1.resources
+C:\Users\Данил\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.Form2.resources
+C:\Users\Данил\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.Properties.Resources.resources
+C:\Users\Данил\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.csproj.GenerateResource.Cache
+C:\Users\Духовников\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\bin\Debug\FinalDraft.exe
+C:\Users\Духовников\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\bin\Debug\FinalDraft.pdb
+C:\Users\Духовников\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.csprojResolveAssemblyReference.cache
+C:\Users\Духовников\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.Form1.resources
+C:\Users\Духовников\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.Form2.resources
+C:\Users\Духовников\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.Properties.Resources.resources
+C:\Users\Духовников\YandexDisk\3 курс\6 семестр\Практика\FinalDraft_v1.2 (19.01.2016)\FinalDraft\FinalDraft\obj\Debug\FinalDraft.csproj.GenerateResource.Cache
